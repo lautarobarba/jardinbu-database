@@ -1,4 +1,8 @@
-# PostgreSQL Database Container
+# Database para el Jardín Botánico De Ushuaia
+
+## Tecnologías
+
+**Proyecto postgresql**
 
 ## Dependencias
 
