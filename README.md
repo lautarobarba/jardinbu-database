@@ -41,6 +41,7 @@ Para conectarse a una terminal del contenedor (sólo para debug)
 
 ```bash
 $ docker container exec -it CONTAINER_NAME bash
+root@...$ psql -U ${POSTGRES_USER} ${POSTGRES_DB}
 ```
 
 ## Backups
